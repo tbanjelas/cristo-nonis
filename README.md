@@ -1,5 +1,5 @@
 
-## Contoh Kode HTML
+
 ```html
 <!DOCTYPE html>
 <html lang="id">
