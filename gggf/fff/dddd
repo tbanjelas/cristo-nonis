@@ -1,1 +1,23 @@
 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Web Modular</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <div id="navbar"></div>
+
+  <!-- Konten -->
+  <main>
+    <h1>Halo Modular Web</h1>
+    <button id="btn">Klik Saya</button>
+  </main>
+
+  <script src="js/navbar.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
