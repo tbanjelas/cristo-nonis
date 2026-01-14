@@ -1,1 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  background: #333;
+  color: white;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  background: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
 
